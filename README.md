@@ -1,5 +1,9 @@
 # Continuation Control Engine
 
+**License:** Free for individuals, academic research, and non-commercial use.  
+**Commercial use requires a license from Witness Grade Analytics.**  
+See `LICENSE` and `COMMERCIAL_LICENSE.md`.
+
 A deterministic system for deciding whether a declared process may continue under replay-verifiable evidence.
 
 The system evaluates artifacts and produces one of three outcomes:
