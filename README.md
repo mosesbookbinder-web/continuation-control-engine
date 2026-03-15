@@ -1,6 +1,7 @@
 # Continuation Control Engine
 
-**License:** Free for individuals, academic research, and non-commercial use.  
+See NOTICE.md for licensing summary.
+
 **Commercial use requires a license from Witness Grade Analytics.**  
 Contact: licensing@witnessgradeanalytics.com
 
