@@ -2,7 +2,7 @@
 
 **License:** Free for individuals, academic research, and non-commercial use.  
 **Commercial use requires a license from Witness Grade Analytics.**  
-See `LICENSE` and `COMMERCIAL_LICENSE.md`.
+Contact: licensing@witnessgradeanalytics.com
 
 A deterministic system for deciding whether a declared process may continue under replay-verifiable evidence.
 
