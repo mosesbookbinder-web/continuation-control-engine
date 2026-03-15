@@ -1,0 +1,15 @@
+# Abstract
+
+This is a deterministic test artifact for Continuation Control.
+
+# Introduction
+
+This artifact is used to verify that the engine emits a reproducible witness receipt.
+
+# Problem Statement
+
+The system must evaluate the artifact, compute a stable hash, and produce a deterministic decision.
+
+# Synthetic Media Considerations
+
+This artifact includes the required term and is intended for repeatable verification.
